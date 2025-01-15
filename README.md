@@ -4,19 +4,21 @@
 
 ### **1. 晶体管如何实现两种状态来表示01（简单的例子）**
 
-![晶体管逻辑.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f418ed70-8dfb-43a8-810d-4ccca3acbeb4/a0323261-3e71-43e4-b241-c8bbe83702ac/%E6%99%B6%E4%BD%93%E7%AE%A1%E9%80%BB%E8%BE%91.png)
+<img width="723" alt="晶体管逻辑" src="https://github.com/user-attachments/assets/05be2cf7-a3ee-4d1c-9d3e-9cd635b0b908" />
 
 ### **2. CPU种类的小小划分**
 
-![cpu划分.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f418ed70-8dfb-43a8-810d-4ccca3acbeb4/6cc3106d-5bcd-407c-bab3-12f6e26ec83d/cpu%E5%88%92%E5%88%86.png)
+<img width="565" alt="cpu划分" src="https://github.com/user-attachments/assets/fa20dd78-be7a-4fd7-9b0e-b8df9da5e1ca" />
+
 
 ### **3. CPU位数如何决定内存上限**
 
-![cpu位数如何决定内存上限.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f418ed70-8dfb-43a8-810d-4ccca3acbeb4/b9643016-da18-4b33-82c9-3b88206adc81/cpu%E4%BD%8D%E6%95%B0%E5%A6%82%E4%BD%95%E5%86%B3%E5%AE%9A%E5%86%85%E5%AD%98%E4%B8%8A%E9%99%90.png)
+<img width="539" alt="cpu位数如何决定内存上限" src="https://github.com/user-attachments/assets/dafd170c-c6ab-4719-a7ed-deda74ed844e" />
+
 
 ### **5. 关于流的一些问题**
 
-![标准IO流，文件描述符，管道.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f418ed70-8dfb-43a8-810d-4ccca3acbeb4/c03a425f-8b52-4db6-ab03-ed8d8371113a/%E6%A0%87%E5%87%86IO%E6%B5%81%EF%BC%8C%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6%EF%BC%8C%E7%AE%A1%E9%81%93.png)
+<img width="610" alt="标准IO流，文件描述符，管道" src="https://github.com/user-attachments/assets/2ae17026-6b2a-444f-a8e4-0d8b3f7f14dc" />
 
 ## 二、指针
 
